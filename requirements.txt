@@ -1,5 +1,5 @@
 streamlit
-openxyl
+openpxyl
 pandas
 plotly
 scikit-learn
